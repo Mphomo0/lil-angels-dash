@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "lil-angels-dev", "runtimeExecutable": "npm", "runtimeArgs": ["run", "dev"], "port": 3000 },
+    { "name": "lil-angels-standalone", "runtimeExecutable": "node", "runtimeArgs": [".next/standalone/server.js"], "port": 3000 }
+  ]
+}
